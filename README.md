@@ -1,4 +1,4 @@
-# TechVideo Wizard - 视频脚本向导
+# TechVideo Wizard - SuperMap GIS技术小视频脚本向导
 
 通过 6 步结构化引导，快速生成专业产品视频旁白脚本。
 
